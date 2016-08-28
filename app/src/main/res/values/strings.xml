@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animation Demo</string>
+    <string name="button_animate3">button_animate3</string>
+    <string name="button_animate2">button_animate2</string>
+    <string name="button_animate1">button_animate1</string>
+</resources>
